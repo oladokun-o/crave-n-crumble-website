@@ -1,0 +1,11 @@
+.coming-soon-area{
+    display:grid;
+    overflow-x: hidden;
+    text-align: center;
+    width: 100vw;
+    place-items: center;
+
+}
+.contdown_row{
+    margin-bottom: 50px;
+}

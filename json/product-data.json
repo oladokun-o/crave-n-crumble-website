@@ -1,0 +1,86 @@
+[
+    {
+        "id": "1",
+        "name": "Candy Nut Chocolate",
+        "description": "Delicious chocolate with nuts and candy.",
+        "price": "$11.00",
+        "image": "img/product/p-26.jpg"
+    },
+    {
+        "id": "2",
+        "name": "A Bakery Doughnuts",
+        "description": "Freshly baked doughnuts with a variety of flavors.",
+        "price": "$21.00",
+        "image": "img/product/p-27.jpg"
+    },
+    {
+        "id": "6",
+        "name": "The Bread A Fresh",
+        "description": "Fresh bread baked daily for your enjoyment.",
+        "price": "$25.00",
+        "image": "img/product/p-35.jpg"
+    },
+    {
+        "id": "7",
+        "name": "Sandwich Olka Bread",
+        "description": "Soft and tasty sandwich bread.",
+        "price": "$31.00",
+        "image": "img/product/p-37.jpg"
+    },
+    {
+        "id": "8",
+        "name": "Healthy Cake Pastry",
+        "description": "Healthy pastries for your sweet tooth.",
+        "price": "$44.00",
+        "image": "img/product/p-39.jpg"
+    },
+    {
+        "id": "10",
+        "name": "Crackers for Rasmalai",
+        "description": "Perfect crackers for rasmalai.",
+        "price": "$61.00",
+        "image": "img/product/p-43.jpg"
+    },
+    {
+        "id": "5",
+        "name": "Jamun Fruit Pastry",
+        "description": "A delicious pastry with Jamun fruit flavors.",
+        "price": "$25.00",
+        "image": "img/product/p-34.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Fresh Bread Toast",
+        "description": "Crispy and tasty bread toast.",
+        "price": "$24.00",
+        "image": "img/product/p-29.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Free Sugar Toast",
+        "description": "Sugar-free toast for a healthy lifestyle.",
+        "price": "$25.00",
+        "image": "img/product/p-31.jpg"
+    },
+    {
+        "id": "11",
+        "name": "Red Sugar Biscuit",
+        "description": "Biscuit with a hint of red sugar flavor.",
+        "price": "$61.00",
+        "image": "img/product/p-45.jpg"
+    },
+    {
+        "id": "9",
+        "name": "Creamy for Rasmalai",
+        "description": "Creamy delicacy perfect for Rasmalai lovers.",
+        "price": "$54.00",
+        "image": "img/product/p-41.jpg"
+    },
+    {
+        "id": "12",
+        "name": "Fresh healthy doughnuts",
+        "description": "Rich and dark cream cakes for chocolate lovers.",
+        "price": "$39.00",
+        "image": "img/product/p-47.jpg"
+    }
+]
